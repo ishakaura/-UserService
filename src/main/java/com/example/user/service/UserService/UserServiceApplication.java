@@ -19,6 +19,7 @@ public class UserServiceApplication {
 	public void init() {
 		
 		logger.info("hello lgger jenkins work");
+		logger.info("hello lgger jenkinggggggs work");
 	}
 	public static void main(String[] args) {
 		
