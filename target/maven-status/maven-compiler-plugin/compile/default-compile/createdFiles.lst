@@ -1,0 +1,11 @@
+com\example\user\service\UserService\controller\UserController.class
+com\example\user\service\UserService\payload\ApiResponse.class
+com\example\user\service\UserService\entities\Rating.class
+com\example\user\service\UserService\exception\GlobalExceptionHandler.class
+com\example\user\service\UserService\entities\Hotel.class
+com\example\user\service\UserService\payload\ApiResponse$Builder.class
+com\example\user\service\UserService\entities\User.class
+com\example\user\service\UserService\services\UserService.class
+com\example\user\service\UserService\repositories\UserRepository.class
+com\example\user\service\UserService\servicesImpl\UserServiceImpl.class
+com\example\user\service\UserService\UserServiceApplication.class
