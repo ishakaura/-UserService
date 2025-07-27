@@ -16,7 +16,7 @@ public class UserServiceApplication {
 	public static Logger logger=LoggerFactory.getLogger(UserServiceApplication.class);
 	
 	@PostConstruct
-	public void init() {
+	public int init() {
 		
 		logger.info("hello lgger IshaNinujenkins work");
 		logger.info("hello lgger jenkinggggggs work");
