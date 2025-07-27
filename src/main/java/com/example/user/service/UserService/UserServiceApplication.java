@@ -18,7 +18,7 @@ public class UserServiceApplication {
 	@PostConstruct
 	public void init() {
 		
-		logger.info("hello lgger jenkins work");
+		logger.info("hello lgger IshaNinujenkins work");
 		logger.info("hello lgger jenkinggggggs work");
 	}
 	public static void main(String[] args) {
